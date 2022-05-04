@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bobby Morgan and I am a Purdue Computer Science alum. I am currently working as a Sr Software Engineering Manager for Ibotta in Denver, CO. In my free time I like to noodle on Home-Assistant plugins and home automation and write out tools for sports betting.
+My name is Bobby Morgan and I am a Purdue Computer Science alum. I am currently working as a Sr Software Engineering Manager in Denver, CO. In my free time I like to noodle on Home-Assistant plugins and home automation and write out tools for sports betting.
 <!--
 **bobby-morgan/bobby-morgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
